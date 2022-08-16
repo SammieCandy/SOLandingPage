@@ -52,7 +52,7 @@ header{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #eee;
+  background-color: brown;
 }
 @media (max-width: 600px){
   header{
@@ -126,6 +126,7 @@ nav > ul {
   text-align: center;
   align-items: center;
   height: 200px;
+  background-color:rgb(159, 137, 137)
 }
 #hero > h2 {
   margin-bottom: 20px;
@@ -155,6 +156,7 @@ nav > ul {
 }
 #features {
   margin-top:  30px;
+  background-color:rgb(159, 137, 137)
 }
 
 #features .icon{
